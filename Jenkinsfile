@@ -1,4 +1,3 @@
-[16:13] Rhea John (Guest)
 pipeline {
 
   agent any
